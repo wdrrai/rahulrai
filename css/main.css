@@ -505,7 +505,7 @@ p{
     ul {
         /* flex-direction: column; */
         margin: 5px;
-        font-size: auto;
+        font-size: 1.3rem;
     }
 
     .container {
