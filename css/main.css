@@ -570,3 +570,19 @@ p{
         text-align: justify;
     }
 }
+@media only screen and (max-width: 600px) {
+   .logo img{
+    height: 10vh;
+    width: 60vw;
+   }
+
+   ul{
+    font-size: 1.2em;
+    font-weight: 500;
+    padding: 0;
+   }
+
+   li{
+    margin: 5px;
+   }
+}
