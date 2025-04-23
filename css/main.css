@@ -589,4 +589,9 @@ p{
    li{
     margin: 3px;
    }
+
+    .fa{
+    height: auto;
+    width: 10vw;
+   }
 }
