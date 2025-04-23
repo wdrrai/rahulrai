@@ -572,7 +572,7 @@ p{
 }
 @media only screen and (max-width: 600px) {
    .logo img{
-    height: 10vh;
+    height: auto;
     width: 60vw;
    }
 
